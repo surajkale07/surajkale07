@@ -39,7 +39,7 @@ Here are some of the technologies and programming languages I'm proficient in:
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YourGitHubUsername>&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkale07&show_icons=true&theme=dark)
 
 ## Projects You Might Like
 
