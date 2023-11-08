@@ -1,7 +1,7 @@
 # Hey Developers
 
-[![GitHub followers](https://img.shields.io/github/followers/<YourGitHubUsername>?style=social)](https://github.com/surajkale07?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/<YourGitHubUsername>?style=social)](https://github.com/surajkale07?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/surajkale07?style=social)](https://github.com/surajkale07?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/surajkale07?style=social)](https://github.com/surajkale07?tab=stars)
 
 Welcome to my GitHub profile! I'm passionate about technology, software development, and open-source collaboration. Here, you'll find a collection of my projects, contributions, and a bit about me. Feel free to explore and get in touch if you'd like to collaborate or have any questions.
 
