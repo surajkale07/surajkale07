@@ -16,44 +16,28 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 
 I enjoy working on a wide range of projects, including but not limited to:
 
-- 🚀 [Project 1](https://github.com/<YourGitHubUsername>/project1): A brief description of the project and its purpose.
-- 🌐 [Project 2](https://github.com/<YourGitHubUsername>/project2): Another project you're proud of.
-- 💡 [Project 3](https://github.com/<YourGitHubUsername>/project3): More details about another significant project.
-- 📚 [Project 4](https://github.com/<YourGitHubUsername>/project4): Describe your contributions to open-source or collaborative projects.
+- 🚀 [Project 1](https://github.com/surajkale07/gibber-web): Gibber:- Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, join virtual meetings, post blog as well as get daily news updates
+- 🌐 [Project 2](https://github.com/surajkale07/AssetTracker): AssetTracker is designed to simplify asset management for companies. It provides a centralized platform to track and manage the company's assets, assign them to employees, and generate reports for better decision-making and accountability.
+- 💡 [Project 3](https://github.com/surajkale07/shiptek): Shiptek is designed to provide a platform for event promotion and networking in Dubai. It aims to bridge the gap between event organizers and participants, making it easier for people to discover, join, and engage with various events happening in the city.
 
 ## Skills
 
 Here are some of the technologies and programming languages I'm proficient in:
 
-- 🔧 Skill 1
-- 🔧 Skill 2
-- 🔧 Skill 3
-- 🔧 Skill 4
+- 🔧 App Development
+- 🔧 Website Development
+- 🔧 Cloud
+- 🔧 Nfts Mining
 
 ## Contact
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- 🌐 Personal Website/Blog: [Your Website or Blog](https://www.yourwebsite.com)
+- 📧 Email: surajkale16749@gmail.com
+- 💬 LinkedIn: https://www.linkedin.com/in/surajkale07/
+- 🌐 Personal Website/Blog: https://portfolio-646a0.web.app/
 
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkale07&show_icons=true&theme=dark)
-
-## Projects You Might Like
-
-Here are a few selected projects I've worked on that you might find interesting:
-
-- 📦 [Project A](https://github.com/<YourGitHubUsername>/project-a): A brief description of the project.
-- 📦 [Project B](https://github.com/<YourGitHubUsername>/project-b): Another interesting project.
-
-## Contributions
-
-I'm an active contributor to the open-source community and believe in the power of collaborative development. Some of the projects and organizations I've contributed to:
-
-- 🌐 [Organization 1](https://github.com/org1)
-- 🌐 [Organization 2](https://github.com/org2)
 
 If you find my work interesting or need assistance with a project, feel free to reach out. I'm always open to new opportunities and collaborations!
 
