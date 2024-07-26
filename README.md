@@ -29,6 +29,8 @@ Here are some of the technologies and programming languages I'm proficient in:
 - 🔧 Website Development
 - 🔧 Cloud
 - 🔧 Nfts Mining
+- 🔧 Web Pentesting
+- 🔧 Forensics
 
 ## Contact
 
