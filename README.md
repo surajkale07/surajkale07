@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - 🌍 Location: Pune,Maharashtra,India
 - 💼 Occupation: Software Developer
 - 🎓 Education:  Bachelor In Computer Engineering
+- I'm Learning Web Pentest, Reverse Engineering
 
 ## My Work
 
