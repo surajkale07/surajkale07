@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - 💼 Occupation: Software Developer
 - 🎓 Education:  Bachelor In Computer Engineering
 - I'm Learning Web Pentest, Reverse Engineering
+- Currently got interest in Rust Programming
 
 ## My Work
 
