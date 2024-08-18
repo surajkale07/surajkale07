@@ -37,7 +37,7 @@ Here are some of the technologies and programming languages I'm proficient in:
 
 - 📧 Email: surajkale16749@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/surajkale07/
-- 🌐 Personal Website/Blog: https://portfolio-646a0.web.app/
+- 🌐 Personal Website/Blog: https://surajportfolio-07.web.app/
 
 ## Stats
 
