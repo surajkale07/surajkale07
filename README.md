@@ -72,10 +72,6 @@ Here are some of the technologies and programming languages I'm proficient in:
 - 💬 LinkedIn: https://www.linkedin.com/in/surajkale07/
 - 🌐 Personal Website/Blog: https://surajportfolio-07.web.app/
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkale07&show_icons=true&theme=dark)
-
 If you find my work interesting or need assistance with a project, feel free to reach out. I'm always open to new opportunities and collaborations!
 
 Enjoy exploring my GitHub profile, and thank you for stopping by. 😊
